@@ -9,6 +9,8 @@ This project involves implementing a JavaScript-based task entry system where us
 1. Clone or download this repo
 2. If downloaded, extract files and open index.html either in VSCode or straight in your browser
 3. If opened in VSCode, use the Live Server extension to view the web page
+4. Follow the prompts to start entering your tasks!
+5. Open the dev tools console to view the output of your prompts
 
 ## Technologies Used
 
