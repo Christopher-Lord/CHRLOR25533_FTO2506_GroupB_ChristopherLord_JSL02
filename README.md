@@ -1,13 +1,45 @@
-# JSL02 Project Brief: Task Input and Status Validation System
+# JSL02 Project: Task Input and Status Validation System
+
+## Project Description
+
+This project involves implementing a JavaScript-based task entry system where users can input a number of tasks with complete details, ensuring data consistency and validation. The system will guide users through entering valid task titles, descriptions, and statuses, enforcing correct formatting while maintaining code clarity and maintainability.
+
+## Setup Instructions
+
+1. Clone or download this repo
+2. If downloaded, extract files and open index.html either in VSCode or straight in your browser
+3. If opened in VSCode, use the Live Server extension to view the web page
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- Multiple task entry system through prompts
+- Able to enter task title, description and status
+- All task info gets stored in an array depending on status
+- Status validation system so no invalid status can be stored
+- Display of completed tasks in the console
+- Display of motivational message if no tasks are complete
+
+## Usage Examples
+
+- Entering and storing multiple different tasks
+- Keeping track of which tasks you have completed
+
+## Usage instructions
+
+- When the first prompt pops up, select 'OK' to start entering tasks
+- Select cancel after entering any **full** task (Title, description and status) to stop the task entry
+- Or continue to select 'OK' to keep entering as many tasks as you like
 
 ## Important Prerequisite
 
 1. Before starting this challenge, ensure that you have **corrected your JSL01 project (HTML and CSS)** using the solution provided. This will help maintain consistency and ensure you build on a solid foundation.
 2. **Check the project user stories in your student dashboard**, make sure you understand what is required for each feature.
-
-## Overview
-
-This project involves implementing a JavaScript-based task entry system where users can input two tasks with complete details, ensuring data consistency and validation. The system will guide users through entering valid task titles, descriptions, and statuses, enforcing correct formatting while maintaining code clarity and maintainability.
 
 ## Key Objectives
 
